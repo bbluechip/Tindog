@@ -1,5 +1,5 @@
 ## Tindog
-![Animation]()
+![Animation](https://github.com/bbluechip/Tindog/blob/main/images/Animation.gif)
 
 👉[Click here to see the page](https://bbluechip.github.io/Tindog/)
 
